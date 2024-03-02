@@ -3,8 +3,8 @@ Based on: [SQL Murder Mystery](https://mystery.knightlab.com/) | [on GitHub](htt
 _Use SQL to research clues and find out whodunnit!_ <br>
 
 To get started...
-- Have an existing instance of SQL Server running.
-- Download the .sql files in the project (or copy the repo)
+- Have an existing instance of SQL Server running
+- Download the .sql files in the project (or clone the repo)
 - Open `Start_Here_SQLMurderMystery.sql` in SQL Server Management Studio
 - You'll see what to do from there!<br>
   Remember, no peeking at `solution.sql` early :wink:
