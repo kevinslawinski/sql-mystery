@@ -1,4 +1,4 @@
-# sql-mystery
+# SQL Murder Mystery
 Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunnit!<br>
 [SQL Murder Mystery](https://mystery.knightlab.com/) | [on GitHub](https://github.com/NUKnightLab/sql-mysteries)
 
